@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week5Vrijdag.Afstandsbediening">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <!--Knop channel plus-->
+            <Button
+                x:Name="Plus"
+                Text="+"
+                TextColor="White"
+                BackgroundColor="Blue"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-150}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-150}"
+                />
+            <!--Knop channel down-->
+            <Button
+                x:Name="Min"
+                Text="-"
+                TextColor="White"
+                BackgroundColor="Blue"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-150}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.5, Constant=-90}"
+                />
+            <!--Knop volume plus-->
+            <Button
+                x:Name="VolUp"
+                BackgroundColor="Blue"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=100}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-150}"
+                />
+            <!--Afbeelding volume up-->
+            <Image
+                Source="volup.png"
+                WidthRequest="45"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=84}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-149}"
+                />
+            <!--Knop volume down-->
+            <Button
+                x:Name="VolDwn"
+                BackgroundColor="Blue"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=100}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-90}"
+                />
+            <!--Afbeelding volume down-->
+            <Image
+                Source="voldwn.png"
+                WidthRequest="45"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=85}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-89}"
+                />
+            <!--TVpower knop-->
+            <Button
+                x:Name="TVPower"
+                BackgroundColor="Red"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-150}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.25, Constant=-150}"
+                />
+            <!--Afbeelding TV power-->
+            <Image
+                Source="power.png"
+                WidthRequest="40"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-126}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.25, Constant=-147}"
+                />
+            <!--Trackpad-->
+            <BoxView
+                Color="DarkSlateGray"
+                WidthRequest="300"
+                HeightRequest="250"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.1, Constant=0}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=240}"
+                />
+            <!--Tekst channel-->
+            <Label
+                Text="Channel"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-133}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-170}"
+                />
+            <!--Tekst volume-->
+            <Label
+                Text="Volume"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=80}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-170}"
+                />
+            <!--Tekst trackpad-->
+            <Label
+                Text="Trackpad"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.5, Constant=-20}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=30}"
+                />
+            <!--Knop pauze-->
+            <Button
+                x:Name="Pauze"
+                Text="Pauzeer"
+                TextColor="White"
+                BackgroundColor="Blue"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=-2}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.5, Constant=-90}"/>
+            <!--Knop hoofdmenu -->
+            <Button 
+                x:Name="Vorigeknop"
+                Text="Vorige"
+                BackgroundColor="Blue"
+                TextColor="White"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=100}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.25, Constant=-150}"/>
+            <!--Knop gids -->
+            <Button 
+                x:Name="Gids"
+                Text="Gids"
+                BackgroundColor="Yellow"
+                TextColor="Black"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.4, Constant=-5}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.25, Constant=-150}"/>
+
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

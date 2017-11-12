@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Week5Vrijdag"
+             x:Class="Week5Vrijdag.MainPage">
+
+
+    <RelativeLayout>
+        <!--Neflix knop opmaak--> 
+        <Button x:Name="NetflixButton"
+                Image="netflixicon.png"
+                Scale="0.20"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-500}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-550}"/>
+
+        <!--YouTube knop opmaak-->
+        <Button x:Name="YoutubeButton"
+                Image="youtubeicon.png"
+                Scale="0.20"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-375}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-550}"/>
+
+        <!--Ziggo knop opmaak-->
+        <Button x:Name="ZiggoButton"
+                Image="ziggoicon.png"
+                Scale="0.20"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-250}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-550}"/>
+
+        <!--Willekeurige serie knop opmaak-->
+        <Button x:Name="RandomSerie"
+                Text="Start film/serie op basis van interesse"
+                BackgroundColor="Green"
+                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-345}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-50}"/>
+
+        <!--Zoekbalk opmaak-->
+        <SearchBar 
+            x:Name="Zoekbalk"
+            Placeholder="Zoeken tussen content."/>
+        
+
+    </RelativeLayout>
+
+
+
+
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week5Vrijdag.Ziggo">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <!--Ziggo terug knop opmaak-->
+            <Button x:Name="ZiggoBack"
+                    Text="Terug naar hoofdmenu"
+                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-200}"
+                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-80}"/>
+
+            <!--Ziggo tekst knop opmaak-->
+            <Button x:Name="ZiggoText"
+                    Text="Klik op mij" 
+                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-200}"
+                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-120}"/>
+            <!--Ziggo icon-->
+            <Image Source="ziggoicon.png"/>
+
+
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,112 @@
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.MainPage.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.App.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.apk
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android-Signed.apk
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.dll
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.pdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\bin\Week5Vrijdag.Android.apk
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\values\styles.xml
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\R.cs.flag
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\uploadflags.txt
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Week5Vrijdag.Android.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\netflixicon.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\youtubeicon.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\ziggoicon.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Netflix.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Youtube.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Ziggo.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Afstandsbediening.xaml.g.cs
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\voldwn.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\volup.png
+C:\Users\Luca\Desktop\School\jaar 2\B1D01\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\power.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.apk
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android-Signed.apk
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.csprojResolveAssemblyReference.cache
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.csproj.CoreCompileInputs.cache
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.MainPage.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.App.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Netflix.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Youtube.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Ziggo.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Droid.Afstandsbediening.xaml.g.cs
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.dll
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\Week5Vrijdag.Android.pdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\bin\Week5Vrijdag.Android.apk
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\icon.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\layout\tabbar.xml
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\layout\toolbar.xml
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\values\styles.xml
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\netflixicon.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\youtubeicon.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\ziggoicon.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\voldwn.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\volup.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\res\drawable\power.png
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\R.cs.flag
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\uploadflags.txt
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\bin\Debug\Week5Vrijdag.Android.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Week5Vrijdag.Android.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Kenneth\Downloads\PI6 - Casusgroep 3\Afstandsbediening\Week5Vrijdag\Week5Vrijdag\Week5Vrijdag.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

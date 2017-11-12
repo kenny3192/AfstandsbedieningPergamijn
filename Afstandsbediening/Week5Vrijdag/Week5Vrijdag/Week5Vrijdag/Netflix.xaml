@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week5Vrijdag.Netflix">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <!--Netflix terug knop opmaak-->
+            <Button x:Name="NetflixBack"
+                    Text="Terug naar hoofdmenu"
+                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-200}"
+                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-80}"/>
+
+            <!--Netflix text knop opmaak-->
+            <Button x:Name="NetflixText"
+                    Text="Klik op mij" 
+                    RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-200}"
+                    RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Constant=-120}"/> 
+            <!--Netflix icon-->
+            <Image Source="netflixicon.png"/>
+
+
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>
